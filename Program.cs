@@ -1,6 +1,6 @@
 ﻿using System;
 using static System.Console;
-class Adminssion
+class Speed
 {
 
     static void Main()
